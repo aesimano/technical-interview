@@ -10,7 +10,7 @@ Efficiency - complicated
 """
 import abc
 
-sorted
+
 class BaseQuickSort(object):
     __metaclass__ = abc.ABCMeta
 
