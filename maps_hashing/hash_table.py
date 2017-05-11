@@ -3,6 +3,8 @@ in a hash table, where keys are calculated
 using the first two letters of the string.
 
 Hash Value = (ASCII Value of First Letter * 100) + ASCII Value of Second Letter
+
+Load Factor = Number of Entries / Number of Buckets
 """
 
 
